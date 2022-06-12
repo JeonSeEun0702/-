@@ -2,6 +2,7 @@
 //컴퓨터공학부
 //전세은
 //컴퓨터프로그래밍 과제
+//코로나 관련 연령별 백신 위험률, 도시별 확진자 현황, 확진자 평균, 방역수칙
 
 #define _CRT_SECURE_NO_WARNINGS	//scanf 오류방지
 #include <stdio.h>
