@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include "covid.h"	//헤더파일(다중소스 파일)
 
-static int ci[7] = { 100, 120, 80, 70, 80, 60, 50 }; //도시별 확진자 수(구조체 사용)
+static int ci[7] = { 100, 120, 80, 70, 80, 60, 50 }; //도시별 확진자 수( 사용)
 struct people {	//이름과 거주지, 나이(구조체 사용)
 	char name[10];
 	char address[10];
